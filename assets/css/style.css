@@ -359,6 +359,7 @@ img {
   background-color: var(--first-color);
   color: #fff;
   padding: 1rem;
+  border: none;
   border-radius: 0.5rem;
   font-weight: var(--font-medium);
   font-family: var(--body-font);
