@@ -1068,7 +1068,7 @@ img {
     margin-left: auto;
     margin-right: auto;
   }
-  
+
   body {
     margin: 0;
   }
@@ -1149,31 +1149,31 @@ img {
     text-align: initial;
   }
 
-  .about__info{
+  .about__info {
     justify-content: space-between;
   }
 
-  .about__buttons{
+  .about__buttons {
     justify-content: initial;
   }
 
-  .qualification__tabs{
+  .qualification__tabs {
     justify-content: center;
   }
 
-  .qualification__button{
+  .qualification__button {
     margin: 0 var(--mb-1);
   }
 
   .qualification__section {
-    grid-template-columns: .5fr;
+    grid-template-columns: 0.5fr;
   }
 
   .services__container {
     grid-template-columns: repeat(3, 218px);
     justify-content: center;
   }
-  
+
   .services__icon {
     font-size: 2rem;
   }
@@ -1211,7 +1211,7 @@ img {
   }
 
   .project__data {
-    padding-top: .8rem;
+    padding-top: 0.8rem;
   }
 
   .footer__container {
