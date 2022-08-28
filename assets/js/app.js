@@ -30,3 +30,4 @@ const linkAction = () => {
 };
 
 navLinks.forEach((link) => link.addEventListener("click", linkAction));
+
